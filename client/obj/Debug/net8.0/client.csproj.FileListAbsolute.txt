@@ -1,0 +1,14 @@
+/home/kali/Documents/WEBB/client/bin/Debug/net8.0/client
+/home/kali/Documents/WEBB/client/bin/Debug/net8.0/client.deps.json
+/home/kali/Documents/WEBB/client/bin/Debug/net8.0/client.runtimeconfig.json
+/home/kali/Documents/WEBB/client/bin/Debug/net8.0/client.dll
+/home/kali/Documents/WEBB/client/bin/Debug/net8.0/client.pdb
+/home/kali/Documents/WEBB/client/obj/Debug/net8.0/client.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Documents/WEBB/client/obj/Debug/net8.0/client.AssemblyInfoInputs.cache
+/home/kali/Documents/WEBB/client/obj/Debug/net8.0/client.AssemblyInfo.cs
+/home/kali/Documents/WEBB/client/obj/Debug/net8.0/client.csproj.CoreCompileInputs.cache
+/home/kali/Documents/WEBB/client/obj/Debug/net8.0/client.dll
+/home/kali/Documents/WEBB/client/obj/Debug/net8.0/refint/client.dll
+/home/kali/Documents/WEBB/client/obj/Debug/net8.0/client.pdb
+/home/kali/Documents/WEBB/client/obj/Debug/net8.0/client.genruntimeconfig.cache
+/home/kali/Documents/WEBB/client/obj/Debug/net8.0/ref/client.dll
